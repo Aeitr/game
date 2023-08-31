@@ -1,13 +1,12 @@
 ###  DANO DE ATAQUE NORMAL
 
-*Dano (redução de HP) = (Ataque de A/2) - (Defesa de B/4).**
+*Dano (redução de HP) = (Ataque de A/2) - (Defesa de B/4). :white_check_mark:
 
-*O dano real causado irá flutuar aleatoriamente dentro do intervalo de 80 ~ 120%.**
+*O dano real causado irá flutuar aleatoriamente dentro do intervalo de 80 ~ 120%.:white_check_mark:
 
-*O valor é triplicado para um acerto crítico. //Após o cálculo do dano final -> inserir o valor x que corresponde ao taxa de 
-crítico do atacante (caso haja) -> random number baseado no valor inserido -> se cair em x, multiplica o dano final**
+*O valor é triplicado para um acerto crítico. //Após o cálculo do dano final -> inserir o valor x que corresponde ao taxa de crítico do atacante (caso haja) -> random number baseado no valor inserido -> se cair em x, multiplica o dano final:white_check_mark:
 
-*Se B estiver defendendo, o dano será reduzido pela metade. Se B tiver uma defesa forte, o dano será de 1/4 do valor.**
+*Se B estiver defendendo, o dano será reduzido pela metade. Se B tiver uma defesa forte, o dano será de 1/4 do valor.:white_check_mark:
 
 ### PRECISÃO DE ATAQUE NORMAL
 
@@ -16,7 +15,7 @@ crítico do atacante (caso haja) -> random number baseado no valor inserido -> s
 *Se a opção "ignorar taxa de esquiva do oponente" estiver habilitada, a precisão básica será usada como está para o valor de 
 precisão.
 
-*Com base no status atual, um valor de flutuação de precisão(%) será aplicado.**
+*Com base no status atual, um valor de flutuação de precisão(%) será aplicado.:white_check_mark:
 
 *Se B tiver um equipamento com o efeito "Taxa de esquiva física para cima" equipado, a taxa de precisão será reduzida em 25%.
 
